@@ -58,7 +58,7 @@ The design follows a hierarchical campus network model with:
 
 ## Network Topology
 
-![Topology](Topology.png)
+[Topology](Topology.png)
 
 ## Author
 
