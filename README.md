@@ -56,6 +56,10 @@ The design follows a hierarchical campus network model with:
 - Inter-VLAN communication tested
 - Server accessibility verified
 
+## Network Topology
+
+![Topology](topology.png)
+
 ## Author
 
 Abdul Razzaq
